@@ -60,4 +60,4 @@ My strategy to solve this challenge was:
 
 # LICENSE
 
-# All Rights Reserved - Comunidade DS 2021
+
